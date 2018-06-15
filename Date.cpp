@@ -15,7 +15,7 @@ private:
 int main()
 {
 	cout << "hello " << endl;
-	
+	Date a1;
 
 	return 0;
 }
