@@ -9,7 +9,7 @@ public:
 	~Date();
 	
 private:
-	
+	int dmy[8] = 0;
 };
 
 int main()
