@@ -1,6 +1,5 @@
-208957
-Deadline: 16.06.2018 05:24 (GMT+3, )
-Task: Define a class Date that stores day, month and year in a dynamically allocated array of integers.
+# Task: 
+Define a class Date that stores day, month and year in a dynamically allocated array of integers.
 Supply constructor, copy constructor, destructor, assignment operator memory management class members. 
 Use this class to demonstrate
 	(a) the difference between initialization
